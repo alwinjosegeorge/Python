@@ -1,3 +1,10 @@
+'''
+Python program to get the student details
+Author; Alwin Jose George
+Date:05-10-2024
+version: 1.0
+'''
+
 from mimetypes import guess_type
 
 a=10
