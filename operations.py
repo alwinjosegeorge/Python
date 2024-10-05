@@ -5,7 +5,7 @@ Date:05-10-2024
 version: 1.0
 '''
 
-from mimetypes import guess_type
+from mimetypes import guess_type 
 
 a=10
 b=5
