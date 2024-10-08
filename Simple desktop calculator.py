@@ -1,4 +1,9 @@
-from sys import modules
+'''
+Python program to get the student details
+Author; Alwin Jose George
+Date:08-10-2024
+version: 1.0
+'''
 
 num_1 = int(input("Enter first number: "))
 num_2 = int(input("Enter second number: "))
