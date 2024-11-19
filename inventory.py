@@ -1,5 +1,5 @@
 inventory=[
-    ("laptop",5,1200.00),
+    ("laptop",5,1200.00), 
     ("Headphone",15,150.00),
     ("Mouse",50,150.00),
     ("Keyboard",20,150.00),
